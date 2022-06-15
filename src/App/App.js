@@ -6,7 +6,7 @@ import Teacher from "../modules/teacher/Teacher";
 import Login from "../modules/login/Login";
 
 import "./App.css";
-
+console.log('hi');
 const App = () => {
   return (
     <Routes>
