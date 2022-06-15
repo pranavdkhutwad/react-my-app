@@ -1,0 +1,67 @@
+{
+  "users": [],
+  "scores": [
+    {
+      "subject": "Math",
+      "name": "John",
+      "score": 85
+    },
+    {
+      "subject": "Math",
+      "name": "John",
+      "score": 85
+    },
+    {
+      "subject": "Math",
+      "name": "Jasmine",
+      "score": 80
+    },
+    {
+      "subject": "Math",
+      "name": "Jade",
+      "score": 90
+    },
+    {
+      "subject": "History",
+      "name": "John",
+      "score": 70
+    }
+  ],
+  "students": [
+    {
+      "id": "stud01",
+      "name": "Rutuja",
+      "address": "Pune"
+    },
+    {
+      "id": "stud02",
+      "name": "Jasmine",
+      "address": "Mumbai"
+    },
+    {
+      "id": "stud03",
+      "name": "John",
+      "address": "Pune"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "t01",
+      "name": "Parvez",
+      "address": "Pune",
+      "subjects": ["Math", "Science", "Geography"]
+    },
+    {
+      "id": "t02",
+      "name": "Kiran",
+      "address": "Mumbai",
+      "subjects": ["History, Accountancy"]
+    },
+    {
+      "id": "t03",
+      "name": "Sheetal",
+      "address": "Mumbai",
+      "subjects": ["Computer, React"]
+    }
+  ]
+}
